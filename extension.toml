@@ -1,9 +1,9 @@
-id = "CodeColorSense-theme"
-name = "Code Color Sense Theme"
+id = "ComfyCoding-theme"
+name = "Comfy Coding Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["Robert Alvarez itandcoder@gmail.com"]
-description = "One way colors make sense for code."
+description = "Comfy Coding is easy on the eyes and colors that I already associated with coding concepts."
 repository = "https://github.com/Itandcoder/CodeColorSense-theme.git"
 
 [themes]
