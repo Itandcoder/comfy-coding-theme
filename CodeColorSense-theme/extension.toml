@@ -5,3 +5,6 @@ schema_version = 1
 authors = ["Robert Alvarez itandcoder@gmail.com"]
 description = "One way colors make sense for code."
 repository = "https://github.com/Itandcoder/CodeColorSense-theme.git"
+
+[themes]
+path = "themes/CodeColorSense-theme.json"
