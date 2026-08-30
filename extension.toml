@@ -5,7 +5,3 @@ schema_version = 1
 authors = ["Robert Alvarez itandcoder@gmail.com"]
 description = "Comfy Coding is easy on the eyes and colors that I already associated with coding concepts."
 repository = "https://github.com/Itandcoder/CodeColorSense-theme.git"
-
-[ComfyCoding-theme]
-submodule = "extensions/ComfyCoding-theme"
-version = "0.0.1"
